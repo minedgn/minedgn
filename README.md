@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/mineakcakayadgn/)](https://www.instagram.com/mineakcakayadgn/) 
+
+
+
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minedogan)](https://github.com/minedgn/github-readme-stats)
